@@ -1,0 +1,5 @@
+{
+  "name": "Fluid Typography Clamp Generator",
+  "description": "A high-performance tool to generate CSS clamp() functions for fluid typography based on viewport and font size ranges.",
+  "requestFramePermissions": []
+}
